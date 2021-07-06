@@ -1,0 +1,22 @@
+{
+  "name": "projet3",
+  "version": "1.0.0",
+  "description": "Ohmyfood! est une entreprise de commande de repas en ligne",
+  "main": "index.js",
+  "scripts": {
+    "sass": "./node_modules/.bin/sass --watch ./sass/main.scss:./public/css/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/traoré-fl/FousseniTraore_3_15012021.git"
+  },
+  "author": "Fousseni Traore",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/traoré-fl/FousseniTraore_3_15012021/issues"
+  },
+  "homepage": "https://github.com/traoré-fl/FousseniTraore_3_15012021#readme",
+  "dependencies": {
+    "sass": "^1.32.5"
+  }
+}
