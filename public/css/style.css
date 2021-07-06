@@ -37,7 +37,7 @@ body, html {
 .main__header h1 {
   text-align: center;
 }
-
+/* FOOTER*/
 footer {
   display: block;
   background-color: #353535;
@@ -387,6 +387,7 @@ footer ul .fa-hands-helping {
 }
 
 .btn__order button {
+  background-image: linear-gradient(to left, #9356dc, #b35cdc, #cf64dc, #e86edb, #ff79da);
   border: 1px solid transparent;
   border-radius: 30px;
   padding: 10px 5px;
