@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/traoré-fl/FousseniTraore_3_15012021.git"
+    "url": "git+https://github.com/traore-fl/FousseniTraore_3_15012021.git"
   },
   "author": "Fousseni Traore",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/traoré-fl/FousseniTraore_3_15012021/issues"
+    "url": "https://github.com/traore-fl/FousseniTraore_3_15012021/issues"
   },
-  "homepage": "https://github.com/traoré-fl/FousseniTraore_3_15012021#readme",
+  "homepage": "https://github.com/traore-fl/FousseniTraore_3_15012021#readme",
   "dependencies": {
     "sass": "^1.32.5"
   }
