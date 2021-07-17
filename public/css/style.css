@@ -379,6 +379,15 @@ html {
   margin-bottom: 5px;
 }
 
+@keyframes fadein {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
 .starter {
   animation: fadein 3s ease-in-out;
 }
