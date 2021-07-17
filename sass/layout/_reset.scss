@@ -1,0 +1,9 @@
+.reset {
+    @include reset;
+    h2 {
+      font-weight: bold;
+    }
+    p {
+      color: #4d4d4d;
+    }
+  }
