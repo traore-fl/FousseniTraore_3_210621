@@ -247,13 +247,14 @@ html {
 @media screen and (min-width: 768px) {
   .main__resto {
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     flex-flow: row wrap;
+    padding: 2% 10%;
   }
 }
 @media screen and (min-width: 1280px) {
   .main__resto {
-    padding: 0 20%;
+    padding: 2% 10%;
   }
 }
 
@@ -264,7 +265,7 @@ html {
 }
 
 .resto__title h2 {
-  padding: 20px;
+  padding: 20px 63px 5px 63px;
 }
 @media screen and (min-width: 768px) {
   .resto__title h3 {
