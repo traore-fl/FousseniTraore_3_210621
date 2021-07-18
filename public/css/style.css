@@ -309,9 +309,14 @@ html {
   align-items: center;
 }
 
-.heart h4 {
+.heart h3 {
   margin: 0;
-  font-size: 1.5rem;
+  font-size: 1.2rem;
+}
+
+figcaption p {
+  margin: 2px;
+  font-size: 18px;
 }
 
 .new {
