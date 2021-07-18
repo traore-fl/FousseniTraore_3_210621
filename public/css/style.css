@@ -263,8 +263,8 @@ html {
   }
 }
 
-.resto__title h3 {
-  padding: 30px 0px 0px 10px;
+.resto__title h2 {
+  padding: 20px;
 }
 @media screen and (min-width: 768px) {
   .resto__title h3 {
