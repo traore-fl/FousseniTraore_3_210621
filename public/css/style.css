@@ -164,7 +164,7 @@ html {
 .function h2 {
   padding: 20px;
 }
-@media screen and (min-width: 1440px) {
+@media screen and (min-width: 768px) {
   .function h2 {
     text-align: center;
   }
@@ -605,4 +605,8 @@ footer .fa-utensils {
 footer .fa-hands-helping {
   margin-right: 5px;
 }
-
+@media  screen and (min-width: 768px) {
+  footer{
+    text-align: center;
+  }
+}
