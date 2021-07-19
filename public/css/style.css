@@ -281,6 +281,7 @@ html {
   }
   .resto__title h2 {
     padding: 20px 63px 5px 63px;
+    text-align: center;
   }
 }
 
