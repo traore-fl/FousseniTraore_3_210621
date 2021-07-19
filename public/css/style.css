@@ -273,13 +273,17 @@ html {
 }
 
 .resto__title h2 {
-  padding: 20px 63px 5px 63px;
+  padding: 20px;
 }
 @media screen and (min-width: 768px) {
   .resto__title h3 {
     text-align: center;
   }
+  .resto__title h2 {
+    padding: 20px 63px 5px 63px;
+  }
 }
+
 
 .card {
   border-radius: 25px;
