@@ -135,14 +135,14 @@ html {
 
 .btn__reset button {
   background-image: linear-gradient(
-    to left,
+    to top,
     #9356dc,
     #b35cdc,
     #cf64dc,
     #e86edb,
     #ff79da
   );
-  border: 1px solid transparent;
+  border: 0;
   border-radius: 30px;
   padding: 14px 9px;
   color: #fff;
@@ -548,14 +548,14 @@ figcaption p {
 
 .btn__order button {
   background-image: linear-gradient(
-    to left,
+    to top,
     #9356dc,
     #b35cdc,
     #cf64dc,
     #e86edb,
     #ff79da
   );
-  border: 1px solid transparent;
+  border: 0;
   border-radius: 30px;
   padding: 10px 5px;
   color: #fff;
