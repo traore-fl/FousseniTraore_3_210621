@@ -468,7 +468,7 @@ figcaption p {
   display: inline-block;
   opacity: 1;
   background: linear-gradient(
-    to left,
+    to bottom,
     #9356dc,
     #b35cdc,
     #cf64dc,
@@ -476,7 +476,7 @@ figcaption p {
     #ff79da
   );
   background: -webkit-linear-gradient(
-    to left,
+    to bottom,
     #9356dc,
     #b35cdc,
     #cf64dc,
