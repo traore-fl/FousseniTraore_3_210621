@@ -5,6 +5,7 @@ body {
   padding: 0;
   width: 100%;
   font-size: 1rem;
+
 }
 
 * {
@@ -581,6 +582,7 @@ figcaption p {
   display: flex;
   justify-content: center;
   background-color: #f6f6f6;
+  margin-top: -10px;
 }
 
 /* FOOTER*/
