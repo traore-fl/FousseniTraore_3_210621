@@ -580,6 +580,7 @@ figcaption p {
 .btn__order {
   display: flex;
   justify-content: center;
+  background-color: #f6f6f6;
 }
 
 /* FOOTER*/
