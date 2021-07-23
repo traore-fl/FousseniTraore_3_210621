@@ -299,7 +299,7 @@ html {
 .card {
   border-radius: 25px;
   box-shadow: 4px 4px 6px #aaa;
-  margin: 20px;
+  margin: 10px;
   position: relative;
   background: #fff;
 }
