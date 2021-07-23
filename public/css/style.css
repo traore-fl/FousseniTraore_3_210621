@@ -280,8 +280,10 @@ html {
 }
 
 .resto__title h2 {
-  padding: 20px;
+  padding: 20px 20px 0 20px;
+  margin-top: 25px;
 }
+
 @media screen and (min-width: 768px) {
   .resto__title h3 {
     text-align: center;
