@@ -68,12 +68,12 @@ html {
 }
 
 .loader__circle {
-  border: 10px solid #f3f3f3;
-  border-top: 10px solid #9356dc;
-  border-bottom: 10px solid #ff79da;
+  border: 30px solid #f3f3f3;
+  border-top: 30px solid #9356dc;
+  border-bottom: 30px solid #ff79da;
   border-radius: 50%;
-  width: 100px;
-  height: 100px;
+  width: 200px;
+  height: 200px;
   animation: spin 3s linear forwards;
   margin: auto;
   position: absolute;
